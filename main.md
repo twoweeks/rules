@@ -4,7 +4,7 @@
 
 Состав регламента:
 * [rules.md](rules.md) - основные правила конкурса
-* [prize.md]](prize.md) - о призовом фонде
+* [prize.md](prize.md) - о призовом фонде
 * [achievements.md](achievements.md) - об ачивментах
 * [results.md](results.md) - о подведении итогов конкурса
 
