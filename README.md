@@ -1,4 +1,4 @@
-## Регламент конкурса Two Weeks Game
+## Регламент конкурса Two Weeks Game (sort of)
 
 Начало регламента находится в [main.md](main.md).
 
